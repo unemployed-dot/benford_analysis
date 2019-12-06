@@ -32,4 +32,6 @@ Chi Squared Test Statistic: 2.855
 Critical value at P-value of 0.05 is 15,51
 Observed distributions matches expected distributions
 
+![alt text](https://imgur.com/a/EJPMeiA)
+
 The high amount of data (nearly 8000) gave us a good correspondence with Benford Model. 
